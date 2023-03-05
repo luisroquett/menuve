@@ -2,8 +2,27 @@
     margin: 0%;
     padding: 0%;
 }
-header img{
-    width: 100px;
-    display: flex;
-   
- }
+.navbar-brand img{
+    width: 140px;
+    
+}
+
+
+.row1{
+    background-color: aquamarine;
+}
+.row2{
+    background-color: brown;
+}
+.salto img{
+    width: 100%;
+    
+    
+}
+.main-row1{
+    font-family: Rajdhani;
+}
+.main-row1 p{
+    font-family: roboto;
+}
+    
