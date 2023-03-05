@@ -26,7 +26,7 @@ To navigate between the menus you must click on the nav and change the page to s
 ## Some screenshots 
 <img src="img/menu1" alt="">
 <img src="img/menu2" alt="">
-<img src="img/mwnu3" alt="">
-<img src="img/mwnu4" alt="">
+<img src="img/menu3" alt="">
+<img src="img/menu4" alt="">
 
 
