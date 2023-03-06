@@ -6,7 +6,6 @@
   width: 140px;
 }
 
-
 .salto img {
   width: 101%;
 }
@@ -30,20 +29,31 @@
   justify-content: center;
   text-decoration: none;
   list-style: none;
+  color: black;
 }
 .row-footer {
   background-color: rgb(233, 132, 23);
-}
-.logos1 img {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.logos1 img {
   width: 120px;
   height: 120;
 }
+.logos1 {
+  display: flex;
+  justify-content: center;
+}
 
 .rowmenu1 img {
-  width: 100%;
+  width: 80%;
+}
+.rowmenu1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .rowcarta {
   display: flex;
@@ -56,13 +66,28 @@
 }
 
 .rowmenu2 img {
-  width: 100%;
+  width: 90%;
 }
+
 .rowmenu3 img {
-  width: 100%;
+  width: 90%;
 }
 
 .send {
   width: 400px;
   background-color: rgb(233, 132, 23);
+}
+.colfoo3 {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+.colfoo3 a {
+  text-decoration: none;
+}
+.colfoo3 li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  position: relative;
 }
