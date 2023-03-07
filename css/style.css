@@ -1,5 +1,5 @@
 * {
-  margin: 0%;
+  margin: 1%;
   padding: 0%;
 }
 .navbar-brand img {
@@ -47,31 +47,11 @@
   justify-content: center;
 }
 
-.rowmenu1 img {
-  width: 80%;
-}
-.rowmenu1{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.rowcarta {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.colcarta {
-  justify-content: center;
-  align-items: center;
-}
 
-.rowmenu2 img {
-  width: 90%;
-}
 
-.rowmenu3 img {
-  width: 90%;
-}
+
+
+
 
 .send {
   width: 400px;
