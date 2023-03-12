@@ -45,7 +45,7 @@ body{
 
 .rowtitu {
   background-color: rgb(216, 120, 68);
-  width: 150px;
+  width: 11em;
 }
 /* FOOTER */
 .ubi h4 {
@@ -84,7 +84,30 @@ body{
   width: 300px;
   background-color: rgb(233, 132, 23);
 }
+#name{
+  width: 15em;
+  height: 30px;
+}
+#email{
+  width: 15em;
+  height: 30px;
+}
+#mensaje{
+  width: 40em;
+  height: 30px;
+}
+
+.row-send{
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+}
 /* Footer */
+.row-footer{
+  display: flex;
+  align-items: end;
+  height:390px;
+}
 .colfoo3 {
   display: flex;
   justify-content: center;

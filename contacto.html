@@ -15,6 +15,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css" />
     
+    
     <title>Document</title>
   </head>
 
@@ -37,29 +38,31 @@
               </div>
             </div>
           </nav></class>
+        
     </header>
+    
     <div class="container">
-      <div class="container jus">
+      <div class="contact">
         <div class="row justify-content-center"><div class="col colname"><p>Nombre</p><input type="text" id="name"> </div>
-      <div class="col colmail"><p>Email</p> <input type="text" id="email"></div></div>
+    <div class="col"><p>Email</p> <input type="text" id="email"></div></div>
+    
+    <div class="row justify-content-center">
+      <p>Asunto</p>
+      <input type="text" id="mensaje">
       <label for="message">Mensaje</label> <br />
-      <textarea id="message" cols="68" rows="5"></textarea>
+    <textarea id="message" cols="68" rows="5"></textarea> 
+  </div>
+  <div class="row-send">
+      <button class="send">Enviar</button>
+  </div>
       </div>
-      <div class="row jus">
-          <p>Mensaje</p>
-          <input type="text" id="mensaje">
-  
-  
-      </div>
-      <div class="row-send">
-          <button class="send">Enviar</button>
-      </div>
-    </div>
 
+
+    </div>
     
     <!-- FOOTER -->
-    <footer>
-      <div class="row row-footer">
+    <div class="container"><footer>
+      <div class="row row-footer align-items-end">
         <div class="col-lg-4 colfoo1">
           <div class="ubi">
             <h4>Estamos en</h4>
@@ -94,8 +97,9 @@
         </ul>
         </div>
       </div>
-    </footer>
-    </div>
+    </footer></div>
+    
+    
     
 
     <script
