@@ -26,12 +26,12 @@ I decided to make a web page where I show a menu of typical food from Venezuela,
 ## Views
 Desktop view
 <img src="./img/Desktop.png">
-  
+
 Mobile view
 
 <img src="./img/mobile.png"> 
 
-Play the demo here a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+Play the demo here <a href="https://luisroquett.github.io/menuve/">Venecos Food menu</a>
 
 
 
