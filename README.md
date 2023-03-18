@@ -25,9 +25,13 @@ I decided to make a web page where I show a menu of typical food from Venezuela,
 
 ## Views
 Desktop view
-<img src="./img/Desktop.png">  
+<img src="./img/Desktop.png">
+  
 Mobile view
-<img src="./img/mobile.png">
+
+<img src="./img/mobile.png"> 
+
+Play the demo here a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
 
 
 
@@ -39,6 +43,8 @@ This project is under license from Luis Guerrero
 To achieve my goal I have collected information from:
 
 <a href = "luisguerreroroquett@gmail.com"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a>
+
+
 
 ## Thanks to:
 
